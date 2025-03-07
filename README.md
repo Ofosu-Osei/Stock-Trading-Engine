@@ -37,6 +37,7 @@ python app.py
 - Match orders and print trades to the console or logs.
 
 2. Customize Simulation
+
 **Edit the simulateOrders or simulateMultiThreadedOrders functions in modules/simulation.py to control:**
 - Number of orders
 - Ticker symbols
