@@ -1,2 +1,2 @@
 cffi>=1.15.0
-setuptools>=50.0.0
+setuptools>=75.8.0
